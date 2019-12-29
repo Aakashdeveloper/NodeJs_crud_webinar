@@ -1,0 +1,36 @@
+[
+    {
+        sno:1,
+        hindi:80
+    },
+    {
+        sno:2,
+        english:80
+    }
+]
+
+
+database    =     database
+table       =     Collections
+row         =      document
+
+https://nodejs.org/en/
+
+CRUD
+create read update delete
+
+///////**************//////////
+Step to create package.json
+> Navigate to the folder
+> npm init
+> Answer all questions
+> type 'yes'
+
+///////**************//////////
+npm i express mongodb body-parser
+
+npm i -g nodemon
+
+npm i -g @aakashdeveloper/create-node-app
+> generate
+> node-app
